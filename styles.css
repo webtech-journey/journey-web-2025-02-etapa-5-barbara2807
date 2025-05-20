@@ -1,1 +1,28 @@
+img{
+  border-radius:50%;
+  width:200px;
+  object-fit: cover;
+  height: 200;
+
+}
+body{
+  background-color : #2a4682
+
+}
+/*
+.container{
+  background-color: #7f43cc;
+
+}
+*/
+.habilidade{
+  background-color: #213663;
+
+}
+
+.centralizar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
